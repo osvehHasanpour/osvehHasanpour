@@ -23,12 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=osvehHasanpour&show_icons=true&theme=default&hide_border=true)
-
----
-
 ### 📫 Reach Me
 [LinkedIn](https://www.linkedin.com/in/osveh-hasanpour-4081012a6/)
 📫 Let's connect → [LinkedIn](https://www.linkedin.com/in/osveh-hasanpour-4081012a6/)
